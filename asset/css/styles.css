@@ -21,7 +21,7 @@ header {
 }
 header nav {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 header nav .nav-rigth-section {
     width: 250px;
@@ -51,7 +51,7 @@ header nav .nav-rigth-section a {
 /* MAIN  */
 
 main {
-    margin-top: 25%;
+    margin-top: 150px;
     text-align: center;
 }
 
